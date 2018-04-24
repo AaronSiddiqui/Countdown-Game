@@ -10,7 +10,7 @@
 int amount, length;
 char CDletters[SIZE];
 char **longestWords;		//Double pointer to allocate memory based on how many strings there are and the size of each string
-char *fileName = "D:\\webster.txt";		//Dictionary file
+char *fileName = "C:\\Countdown\Dictionary\webster.txt";		//Dictionary file
 
 int instructions();
 int testLetter(char lett, int num);
