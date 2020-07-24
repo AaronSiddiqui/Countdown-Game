@@ -1,3 +1,0 @@
-﻿  ConsoleApplication2.cpp
-c:\users\siddiquiaaron\documents\visual studio 2015\projects\countdown\consoleapplication2\consoleapplication2.cpp(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  ConsoleApplication2.vcxproj -> C:\Users\SIDDIQUIAARON\Documents\Visual Studio 2015\Projects\Countdown\Debug\ConsoleApplication2.exe
